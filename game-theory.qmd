@@ -1,6 +1,6 @@
 ---
 title: "game theory"
-format: html
+format: gfm
 editor: visual
 ---
 
