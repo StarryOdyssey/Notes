@@ -1,0 +1,39 @@
+---
+title: "Color Theory"
+format: html
+toc: true
+theme: pandoc
+editor: visual
+---
+
+## Website
+
+### Theory
+
+-   [Color Theory 101: A Complete Color Guide](https://www.colorsexplained.com/color-theory/)
+
+-   [Color Theory](https://www.interaction-design.org/literature/topics/color-theory)
+
+-   [Learn How Color Theory Can Push Your Creativity to the Next Level](https://mymodernmet.com/basic-color-theory/)
+
+-   [Color Theory 101: The ultimate guide to understanding and applying color](https://www.lucapallotta.com/color-theory/)
+
+-   [Color Theory In Art: The Definitive Guide for Artists](https://artignition.com/color-theory/)
+
+-   [Color Wheel](https://colorkit.co/color-wheel/)
+
+-   [The Fundamentals of Understanding Color Theory](https://simplified.com/blog/colors/color-theory#:~:text=The%20basics%20of%20color%20theory.%20How)
+
+-   [The fundamentals of understanding color theory](https://99designs.com/blog/tips/the-7-step-guide-to-understanding-color-theory/#:~:text=Color%20theory%20is%20both%20science%20and)
+
+-   [Color Theory 101: Color Wheels, Color Schemes, and Why Everything You Think You Know About Color Might Be Wrong](https://blog.hubspot.com/marketing/color-theory-design#:~:text=Read%20on%20for%20our%20guide%20to)
+
+-   [COLOR MATTERS](https://colormatters.com/)
+
+### Practice
+
+[Adobe Color](https://color.adobe.com/zh/)
+
+[Color Hunt](https://colorhunt.co/)
+
+[一文解决你所有的绘图配色](https://mp.weixin.qq.com/s/zqRQ10x4-KsNN_puljY4eg)
