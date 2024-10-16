@@ -1,1 +1,1 @@
-some thing for me
+some things for me
