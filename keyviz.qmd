@@ -1,0 +1,64 @@
+---
+title: "按键可视化"
+date: 2024-10-16
+format: 
+  html:
+    # theme: pandoc
+    toc: true
+    # css: styles.css
+editor: visual
+---
+
+按键可视化可以实时显示按键和鼠标操作，在录屏、演讲或者团队协作中，便于让观众看到操作过程。
+
+## 独立软件
+
+[keyviz](https://mularahul.github.io/keyviz/)是一个免费开源的按键可视化工具。
+
+还有其他软件，比如[Carnac](https://github.com/Code52/carnac)、KeyCastOW、KeysPerSecond、nohboard等等。
+
+## 与Markdown等类似文档的结合
+
+可以使用html内联样式，也可以使用外部css文件，相当于对原始markdown文档功能的拓展
+
+注：本文可用css文件，代码如下：
+
+``` css
+kbd {
+  background-color: white;
+  color: black;
+  padding: 5px;
+  border-radius: 3px;
+  border-color: black;
+}
+```
+
+``` css
+kbd {
+  margin: 0px 0.2em;
+  padding: 0.1em 0.6em;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+  color: rgb(51, 51, 51);
+  font-family: "Arial Black", Impact;
+  display: inline-block;
+  box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
+  background-color: rgb(247, 247, 247);
+  -moz-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
+  -webkit-box-shadow: 0 1px 0px rgba(0, 0, 0, 0.2), 0 0 0 2px #fff inset;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+}
+```
+
+<kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
+
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+
+仅作为案例，还有其他工具可以实现。
+
+## 参考
+
+[Markdown 高级技巧 \| 菜鸟教程 (runoob.com)](https://www.runoob.com/markdown/md-advance.html)
+
+[Nice effect with the KBD tag](https://www.rgagnon.com/jsdetails/js-nice-effect-the-KBD-tag.html)
