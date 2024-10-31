@@ -53,7 +53,7 @@ kbd {
 
 <kbd>shift</kbd> + <kbd>command</kbd> + <kbd>3</kbd>
 
-使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
+使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 
 
 仅作为案例，还有其他工具可以实现。
 
