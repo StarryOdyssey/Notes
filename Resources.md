@@ -2,4 +2,6 @@
 [icon](https://thenounproject.com/)
 
 # color & RGB
-<kbd>Alt</kbd> + <kbd>A</kbd>即可获得RGB信息
+- login in wechat
+- click <kbd>Alt</kbd> + <kbd>A</kbd>
+
