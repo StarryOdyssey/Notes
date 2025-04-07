@@ -10,3 +10,4 @@
 - https://r.geocompx.org/
 - https://cloudcenter.tianditu.gov.cn/dataSource
 - https://bookdown.org/michael_bcalles/gis-crash-course-in-r/
+- https://www.esri.com/arcgis-blog/products/arcgis-pro/mapping/coordinate-systems-difference
