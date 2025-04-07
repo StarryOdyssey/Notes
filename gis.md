@@ -9,3 +9,4 @@
 - https://r-spatial.github.io/sf/#cheatsheet
 - https://r.geocompx.org/
 - https://cloudcenter.tianditu.gov.cn/dataSource
+- https://bookdown.org/michael_bcalles/gis-crash-course-in-r/
