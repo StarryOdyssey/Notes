@@ -5,6 +5,7 @@
 ### network meta analysis 
 
 - [Chapter 11: Undertaking network meta-analyses](https://training.cochrane.org/handbook/current/chapter-11)
+- [Network meta-analysis: a powerful tool for clinicians, decision-makers, and methodologists](https://www.sciencedirect.com/science/article/pii/S0895435624002932)
 
 ## forest plot
 
