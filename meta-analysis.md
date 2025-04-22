@@ -18,6 +18,7 @@
 ## risk of bias plot
 
 **summary barplot figure**: the proportion of studies with a given risk of bias judgement within each domain
+
 **traffic light plot**: the domain level judgments for each study
 
 - [Doing Meta-Analysis in R: A Hands-on Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
