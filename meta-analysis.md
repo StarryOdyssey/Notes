@@ -1,3 +1,7 @@
+## meta analysis
+
+- [A Guide to Understanding Meta-analysis](https://www.jospt.org/doi/10.2519/jospt.2011.3333#_i24)
+
 ## forest plot
 
 - https://s4be.cochrane.org/blog/2016/07/11/tutorial-read-forest-plot/
@@ -10,3 +14,10 @@
 - https://s4be.cochrane.org/blog/2023/06/27/how-to-read-a-funnel-plot/
 - [Recommendations for examining and interpreting funnel plot asymmetry in meta-analyses of randomised controlled trials](https://www.bmj.com/content/343/bmj.d4002)
 - [Graphical augmentations to the funnel plot assess the impact of additional evidence on a meta-analysis](https://www.sciencedirect.com/science/article/pii/S0895435611003271)
+
+## risk of bias plot
+
+**summary barplot figure**: the proportion of studies with a given risk of bias judgement within each domain
+**traffic light plot**: the domain level judgments for each study
+
+- [Doing Meta-Analysis in R: A Hands-on Guide](https://bookdown.org/MathiasHarrer/Doing_Meta_Analysis_in_R/)
